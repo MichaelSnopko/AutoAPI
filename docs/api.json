@@ -1,0 +1,395 @@
+{
+    "summary": {
+        "what": "Auto Repair",
+        "where": "Sarnia"
+    },
+    "listings": [
+        {
+            "id": "1",
+            "name": "Canadian Tire",
+            "address": "1380 London Rd, Sarnia, ON, N7S 1P8",
+            
+            
+                "latitude": "42.9802942",
+                "longitude": "-82.3533924"
+            
+        },
+        {
+            "id": "2",
+            "name": "Speedy Auto Service",
+            "address": "169 Ontario St, Sarnia, ON, N7T 1L2",
+            
+            
+                "latitude": "42.967217",
+                "longitude": "-82.395858"
+            
+        },
+        {
+            "id": "3",
+            "name": "The Mufflerman",
+            "address": "759 Exmouth St, Sarnia, ON, N7T 5P7",
+            
+            
+                "latitude": "42.985201",
+                "longitude": "-82.383335"
+        },
+        {
+            "id": "4",
+            "name": "Ed's Garage",
+            "address": "1175 Confederation St, Sarnia, ON, N7S 3Y5",
+            
+            
+                "latitude": "42.960489",
+                "longitude": "-82.368865"
+            
+        },
+        {
+            "id": "5",
+            "name": "Obsolete Automotive",
+            "address": "142 Kendall St, Point Edward, ON, N7V 4G5",
+            
+            
+                "latitude": "42.9931085",
+                "longitude": "-82.4018854"
+            
+        },
+        {
+            "id": "6",
+            "name": "Rick's Automotive",
+            "address": "535 Vidal St S, Sarnia, ON, N7T 2V7",
+            
+            
+                "latitude": "42.95562",
+                "longitude": "-82.408848"
+             
+        },
+        {
+            "id": "7",
+            "name": "Park Lane Chevrolet Cadillac Buick GMC Ltd",
+            "address": "1290 London Rd, Sarnia, ON, N7S 1P5",
+            
+            
+                "latitude": "42.979883",
+                "longitude": "-82.358178"
+               
+        },
+        {
+            "id": "8",
+            "name": "Precision Transmission Ltd",
+            "address": "155 Indian Rd S, Sarnia, ON, N7T 3W3",
+            
+            
+                "latitude": "42.96226",
+                "longitude": "-82.376244"
+             
+        },
+        {
+            "id": "9",
+            "name": "Confederation Lube And Tire Express",
+            "address": "787 Confederation St, Sarnia, ON, N7T 2E4",
+            
+            
+                "latitude": "42.960786",
+                "longitude": "-82.382148"
+            
+        },
+        {
+            "id": "10",
+            "name": "High Tech Collision & Refinishing",
+            "address": "412 Nelson St, Sarnia, ON, N7T 5K2",
+            
+            
+                "latitude": "42.983174",
+                "longitude": "-82.391691"
+            
+        },
+        {
+            "id": "11",
+            "name": "Sarnia Top Gear Auto Specialist Inc",
+            "address": "888 Confederation St, Sarnia, ON, N7T 2E5",
+            
+            
+                "latitude": "42.960669",
+                "longitude": "-82.377341"
+                  
+        },
+        {
+            "id": "12",
+            "name": "Holden Auto Service",
+            "address": "581 Christina St N, Sarnia, ON, N7T 5W5",
+            
+            
+                "latitude": "42.985021",
+                "longitude": "-82.400223"
+            
+        },
+        {
+            "id": "13",
+            "name": "One Stop Automotive",
+            "address": "802 Ontario St, Sarnia, ON, N7T 1M7",
+            
+            
+                "latitude": "42.959599",
+                "longitude": "-82.381771"
+     
+        },
+        {
+            "id": "14",
+            "name": "H&I Service Centre Ltd",
+            "address": "314 Ontario St, Sarnia, ON, N7T 1L9",
+            
+         
+                "latitude": "42.963975",
+                "longitude": "-82.389916"
+      
+        },
+        {
+            "id": "15",
+            "name": "City Transmission",
+            "address": "894 Exmouth St, Sarnia, ON, N7T 5R2",
+            
+         
+                "latitude": "42.985017",
+                "longitude": "-82.376976"
+           
+        },
+        {
+            "id": "16",
+            "name": "International Tire & Service Centre",
+            "address": "1405 Confederation St, Sarnia, ON, N7S 5N9",
+            
+         
+                "latitude": "42.9601037",
+                "longitude": "-82.3525388"
+              
+        },
+        {
+            "id": "17",
+            "name": "Sarnia Xpress Lube",
+            "address": "1654 London Line, Sarnia, ON, N7T 7H2",
+            
+        
+                "latitude": "42.9839416",
+                "longitude": "-82.3322337"
+                
+        },
+        {
+            "id": "18",
+            "name": "D & S Service Centre Ltd",
+            "address": "810 Confederation St, Sarnia, ON, N7T 2E3",
+            
+         
+                "latitude": "42.960774",
+                "longitude": "-82.381634"
+        },
+        {
+            "id": "19",
+            "name": "Sarnia Auto Wreckers Ltd",
+            "address": "1241 Plank Rd, Sarnia, ON, N7T 7H3",
+            
+          
+                "latitude": "42.948577",
+                "longitude": "-82.365326"
+               
+        },
+        {
+            "id": "20",
+            "name": "Xtreme Auto Tech",
+            "address": "1337 London Rd, Sarnia, ON, N7S 1P6",
+            
+          
+                "latitude": "42.980043",
+                "longitude": "-82.356289"
+             
+        },
+        {
+            "id": "21",
+            "name": "D & S Rust Check",
+            "address": "810 Confederation St, Sarnia, ON, N7T 2E3",
+            
+     
+                "latitude": "42.960774",
+                "longitude": "-82.381634"
+    
+        },
+        {
+            "id": "22",
+            "name": "Universal Auto Electric Sarnia Ltd.",
+            "address": "1137 McGregor Rd N, Sarnia, ON, N7S 4T1",
+            
+           
+                "latitude": "42.9583779",
+                "longitude": "-82.3685518"
+         
+        },
+        {
+            "id": "23",
+            "name": "AutoMax Service",
+            "address": "745 Confederation St, Sarnia, ON, N7T 2E2",
+            
+           
+                "latitude": "42.960837",
+                "longitude": "-82.384185"
+            
+        },
+        {
+            "id": "24",
+            "name": "Econo Automotive Repair & Lube Centre",
+            "address": "795 Campbell St, Sarnia, ON,: N7T 7T3",
+            
+            
+                "latitude": "42.958764",
+                "longitude": "-82.38127"
+            
+            
+            
+        },
+        {
+            "id": "25",
+            "name": "Automotive Repair by Borthwick Enterprises",
+            "address": "768 Confederation St, Sarnia, ON, N7T 2E3",
+            
+           
+                "latitude": "42.960822",
+                "longitude": "-82.383583"
+            
+        },
+        {
+            "id": "26",
+            "name": "Tirecraft",
+            "address": "1341 Plank Rd, Sarnia, ON, N7T 7H3",
+            
+           
+                "latitude": "42.942331",
+                "longitude": "-82.356598"
+            
+            
+        },
+        {
+            "id": "27",
+            "name": "United Auto Service",
+            "address": "221 Mitton St S, Sarnia, ON, N7T 3E2",
+            
+  
+                "latitude": "42.966306",
+                "longitude": "-82.398491"
+            
+        },
+        {
+            "id": "28",
+            "name": "Cameron Service",
+            "address": "155 London Rd, Sarnia, ON, N7T 4V4",
+            
+       
+                "latitude": "42.978789",
+                "longitude": "-82.403178"
+          
+            
+        },
+        {
+            "id": "29",
+            "name": "H&I Service Centre Ltd",
+            "address": "314 Ontario St, Sarnia, ON, N7T 1L9",
+            
+         
+                "latitude": "42.963975",
+                "longitude": "-82.389916"
+            
+            
+        },
+        {
+            "id": "30",
+            "name": "Best Automotive",
+            "address": "100 Russell St S, Sarnia, ON, N7T 3K8",
+            
+         
+                "latitude": "42.97011",
+                "longitude": "-82.39163"
+            
+        },
+        {
+            "id": "31",
+            "name": "Cameron Service",
+            "address": "155 London Rd, Sarnia, ON, N7T 4V4",
+            
+         
+                "latitude": "42.978789",
+                "longitude": "-82.403178"
+            
+            
+        },
+        {
+            "id": "32",
+            "name": "Gibbs Auto Service",
+            "address": "6568 Waterworks Rd, Bright's Grove, ON, N0N 1C0",
+            
+      
+                "latitude": "43.030859",
+                "longitude": "-82.2525505"
+        
+            
+        },
+        {
+            "id": "33",
+            "name": "Lakeshore Automotive",
+            "address": "637 Lakeshore Rd, Sarnia, ON, N7V 2S8",
+            
+      
+                "latitude": "43.010536",
+                "longitude": "-82.388105"
+            
+            
+        },
+        {
+            "id": "34",
+            "name": "Sarnia Speed Centre",
+            "address": "1690 London Line, Sarnia, ON, N7T 7H2",
+            
+
+                "latitude": "42.9838369",
+                "longitude": "-82.32782"
+               
+        },
+        {
+            "id": "35",
+            "name": "Hardcore Auto Tech Inc",
+            "address": "803 Christina St N, Point Edward , ON, N7V 1X6",
+            
+            
+                "latitude": "42.9899648",
+                "longitude": "-82.3969521"
+     
+
+        },
+        {
+            "id": "36",
+            "name": "Plank Rd Auto Centre",
+            "address": "1491 Plank Rd, Sarnia, ON , N7T 7H3",
+            
+            
+                "latitude": "42.9373981",
+                "longitude": "-82.3497445"
+            
+		},
+        {
+            "id": "37",
+            "name": "LaSalle Auto Centre Ltd",
+            "address":"214 LaSalle Line, Sarnia, ON, N7T 7H3",
+            
+           
+                "latitude": "42.957206",
+                "longitude": "-82.322512"
+             
+        },
+        {
+            "id": "38",
+            "name": "Bayview Chrysler Dodge Jeep Ltd",
+            "address": "255 Indian Rd S , Sarnia, ON, N7T 3W5",
+            
+           
+                "latitude": "42.965091",
+                "longitude": "-82.376239"
+                        
+        }
+    ]
+}
