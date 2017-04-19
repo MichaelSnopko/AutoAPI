@@ -1,9 +1,6 @@
 {
-    "summary": {
-        "what": "Auto Repair",
-        "where": "Sarnia"
-    },
-    "listings": [
+   
+"listings": [
         {
             "id": "1",
             "name": "Canadian Tire",
